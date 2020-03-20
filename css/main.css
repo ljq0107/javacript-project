@@ -1,0 +1,450 @@
+/* CSS RESET SECTION
+------------------------------------------- */
+/* http://meyerweb.com/eric/tools/css/reset/ v2.0b2 | 201101 */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym,
+address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var,
+b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead,
+tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, menu, nav, output,
+ruby, section, summary, time, mark,
+audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
+img{vertical-align: top;}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, menu, nav,
+section, canvas, main, video { display: block; }
+body { line-height: 1; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+table { border-collapse: collapse; border-spacing: 0; }
+html, body {width: 100%;
+    height: 100%;}
+html{box-sizing: border-box;}
+*, *:before, *:after{box-sizing: inherit;}
+
+
+/* -----------------------------------------
+General SECTION
+-------------------------------------------*/
+.wrapper{
+    align-content: center;
+    align-items: center;
+}
+
+body {
+    font-family:Arial;
+    background-color:#e5d0cc
+
+}
+
+p{
+    word-spacing: 1.4px;
+    letter-spacing: .8px;
+    line-height: 20px;
+    margin-bottom: 1rem;
+
+}
+
+.inner{
+    width:1000px;
+    margin: 0 auto;
+}
+
+.flexCont{display: flex;}
+
+
+
+.justifyBetween{
+    justify-content: space-between;
+}
+
+.justifyCenter{
+    justify-content: center;
+}
+
+.alignCenter{
+    align-content: center;
+    align-items: center;
+    alignment: center;
+}
+
+.btn{
+
+    display: inline-block;
+    font-weight: bold;
+
+    text-transform: uppercase;
+    border: 2px solid black;
+
+    padding: 10px;
+    text-decoration: none;
+    background-color:#bfacb5;
+    color: #172121;
+    transition-duration: 1s;
+}
+
+.btn:hover{
+    color: #e5d0cc;
+    background-color: #172121;
+
+}
+
+h1{
+    font-weight: bold;
+    font-size:40px;
+    color: #172121;
+   padding-top: 20px;
+
+}
+
+
+h2{
+    font-weight: bold;
+    font-size: 25px;
+    color:#172121;
+}
+
+#h2Logo{
+    color:#2f91d2;
+}
+
+.currentPageLink{
+    color: #444554;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:#bfacb5;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px #bfacb5 ;
+    position: relative;
+    top: -12px;
+}
+
+a{
+    color: #e5d0cc;
+    text-decoration: none;
+    margin-top: 20px;
+
+}
+
+a:hover{
+
+   /* font-size: 120%;*/
+    border-bottom: 2px solid #e5d0cc;
+    transition-duration: .8s;
+
+
+}
+
+
+a:active{
+    color: red;
+    text-decoration: underline;
+}
+
+.alignItemCenter{
+    align-items: center;
+}
+
+/* -----------------------------------------
+Header SECTION
+-------------------------------------------*/
+header{
+    background-color:#444554 ;
+    border-bottom: black;
+
+}
+
+
+Nav a{
+    display: block;
+    text-transform: uppercase ;
+    margin: 10px 10px;
+}
+
+.topNav{
+    margin-top:35px;
+}
+.topNav li a:active{
+    color: #e5d0cc;
+    text-decoration:none;
+}
+
+.banner{
+    width: auto;
+    height: 230px;
+    background-image:
+            url("../imgs/home/10006.jpg");
+
+    background-attachment: fixed;
+    background-repeat: round;
+
+
+
+    text-align: center;
+    padding-top: 50px;}
+
+.banner h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.logo h2{
+    color:#e5d0cc;
+}
+
+/* -----------------------------------------
+Main SECTION
+-------------------------------------------*/
+.gridCont{
+    display: grid;
+    grid-gap: 50px;
+}
+
+
+/* -----------------------------------------
+Footer SECTION
+-------------------------------------------*/
+
+footer{
+    background-color:#444554 ;
+    padding: 50px 0;
+
+}
+
+footer p{
+    text-transform: capitalize;
+    color: #e5d0cc;
+}
+
+
+
+/* -----------------------------------------
+Home Page
+-------------------------------------------*/
+.homePageGrid{
+    grid-template-columns: repeat(2,1fr);
+    border-bottom: 40px;
+    margin-bottom: 50px;
+
+}
+
+.homePageGrid p{
+    text-align: justify;
+
+
+}
+
+.homePagePar1 {
+    padding-bottom: 4px;
+    margin-top: 8px;
+    line-height: 21px ;
+}
+
+.homePagePar2{
+    margin-bottom: 20px;
+
+}
+
+
+/* -----------------------------------------
+About us  Page
+-------------------------------------------*/
+.aboutUsPageGrid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap:50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.aboutUsPageGrid p{
+    text-align: justify;
+
+    margin-bottom: 18px;
+}
+
+/* -----------------------------------------
+Service  Page
+-------------------------------------------*/
+
+.servicePageGridCont{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+    grid-gap:10px;
+}
+
+.servicePageServicesGridCont{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:10px;
+    margin: 15px 0 35px;
+}
+
+.servicePage p{
+    margin: 20px 0 30px;
+
+}
+
+.serviceItem img{
+    cursor: pointer;
+    transition-duration:5s;
+
+}
+
+.serviceItem img:hover{
+    transform: scale(5);
+
+
+}
+.serviceItem{
+    overflow: hidden;
+}
+
+
+    /* -----------------------------------------
+    Contact Us Page
+    -------------------------------------------*/
+.addressGoogleMap{
+    width:50%;
+    padding-top: 30px;
+}
+
+.address{
+       align-content: center;
+    width: auto;
+}
+
+.address h2{
+    margin-top: -14px;
+}
+
+div .address {
+    word-spacing: 1.4px;
+    letter-spacing: .8px;
+
+}
+
+input, textarea{
+    background-color:#bfacb5 ;
+    border: none;
+    border-bottom: #172121 ;
+
+}
+
+.box select{
+    background: #bfacb5;
+}
+
+#phoneCountryCode{
+    background: #bfacb5;
+    width:155px;
+
+}
+
+
+
+#tel{
+    width: 140px;
+}
+
+
+.contactUsForm form{
+    width:700px;
+    padding: 40px;
+    margin:40px auto;
+
+}
+
+.contactUsForm p{
+    margin: 10px 0;
+    color: #e5d0cc;
+
+}
+
+.contactUsFormTextColor{
+    color: #e5d0cc;
+}
+
+.contactUsForm h2{
+    margin: 0px 0 30px 100px;
+}
+
+
+
+.contactUsForm{
+    margin-top:-50px;
+    background-color: #444554;
+   /* box-shadow: 20px 20px 20px  #172121 ;*/
+
+}
+
+.non-option input{
+    height: 25px;
+    width: 300px;
+}
+
+select{
+    width: 300px;
+    height: 25px;
+    padding: 3px;
+    border: 1px solid #444554 ;
+
+}
+
+button{
+    background: #bfacb5;
+    padding: 5px 20px;
+    color:#444554 ;
+    font-weight: bold;
+    margin-left: 100px;
+
+}
+
+
+.form-row{
+    margin: 10px 0;
+}
+
+.form-row::after{
+    content: ".";
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    display: block;
+}
+
+.form-label{
+    float: left;
+    width: 35%;
+    text-transform:capitalize ;
+
+}
+
+.form-input{
+    float:right;
+    width: 65%;
+
+}
+
+.form-input option,#addressCountry{
+    background-color: #bfacb5;
+}
+
+textarea{
+    height: 200px;
+    width: 535px;
+
+}
+
+
+
+input[type="checkbox"],input[type="radio"]{
+   margin-left: 218px;
+
+}
+
+
+
+
+

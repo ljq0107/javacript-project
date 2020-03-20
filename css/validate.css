@@ -1,0 +1,62 @@
+.SubmitComfirmation{
+    margin: 100px auto 800px;
+}
+
+.SubmitComfirmation h1{
+    margin-bottom: 50px;
+}
+
+.invalidate-Input{
+    border: 2px solid red;
+}
+
+
+
+
+.form-input p ,.error{
+    color: red;
+}
+
+
+
+.PasswordParas{
+
+    margin: 15px 100px 15px 0;
+
+}
+
+.bg-modal{
+    width: 100%;
+    height: 2250px;
+    background-color: rgba(255,255,255,0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.modal-content {
+    width: 800px;
+    height: 300px;
+    background-color: #444554;
+    border-radius: 10px;
+    padding: 25px;
+    position: relative;
+    top: 400px;
+}
+
+.modal-content h2{
+    color: #e5d0cc;
+    margin-top: 40px;
+
+ }
+
+.close{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+}
