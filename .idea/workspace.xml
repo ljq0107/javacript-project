@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf04a034-d9e7-4ca4-b1e1-233307b9a5a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/AUTHORS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/AUTHORS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/images/ui-icons_444444_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/images/ui-icons_555555_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/images/ui-icons_777620_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/images/ui-icons_777777_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/images/ui-icons_cc0000_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/images/ui-icons_cc0000_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/images/ui-icons_ffffff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/jquery-ui.theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/jquery-ui.theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/jquery-ui.theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/jquery-ui.theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.12.1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JS/jquery-ui-1.12.1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-project" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lee_Lin_WD_project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UGLUpSZ0epGwzCA2zGj4ACt1pu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Angular2Html" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JS_2019_07_16_day1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LEE\Documents\Training Dragon course materials\Course Project\Lee_Lin_JS_project\Lee_Lin_JS_project\Lee_Lin_JS_project\JS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LEE\Desktop\Lee_Lin_JS_project\Lee_Lin_JS_project\Lee_Lin_JS_project" />
+      <recent name="C:\Users\LEE\Desktop\Lee_Lin_JS_project\Lee_Lin_JS_project" />
+      <recent name="C:\Users\LEE\Desktop\Jianqing_Lin_WD_project\Lee_Lin_WD_project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner">
+      <node-interpreter />
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf04a034-d9e7-4ca4-b1e1-233307b9a5a7" name="Default Changelist" comment="" />
+      <created>1564912771783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564912771783</updated>
+      <workItem from="1564912772976" duration="11239000" />
+      <workItem from="1564926023916" duration="10000" />
+      <workItem from="1564926061793" duration="18163000" />
+      <workItem from="1565215789416" duration="978000" />
+      <workItem from="1565299519704" duration="6986000" />
+      <workItem from="1565345897716" duration="12950000" />
+      <workItem from="1565361257688" duration="2236000" />
+      <workItem from="1565460467647" duration="74000" />
+      <workItem from="1566131061566" duration="7221000" />
+      <workItem from="1566208959053" duration="2394000" />
+      <workItem from="1566555036704" duration="2377000" />
+      <workItem from="1566939469071" duration="7712000" />
+      <workItem from="1567270654196" duration="11971000" />
+      <workItem from="1567294247096" duration="652000" />
+      <workItem from="1567294918128" duration="467000" />
+      <workItem from="1567330871837" duration="4619000" />
+      <workItem from="1567338587694" duration="4469000" />
+      <workItem from="1567428059788" duration="5138000" />
+      <workItem from="1567543634591" duration="3224000" />
+      <workItem from="1567763373596" duration="15986000" />
+      <workItem from="1567887917313" duration="399000" />
+      <workItem from="1567888476537" duration="771000" />
+      <workItem from="1567892275738" duration="243000" />
+      <workItem from="1567892601155" duration="2926000" />
+      <workItem from="1567898792125" duration="629000" />
+      <workItem from="1567972344434" duration="16288000" />
+      <workItem from="1568032222573" duration="1588000" />
+      <workItem from="1568106082624" duration="232000" />
+      <workItem from="1569493104756" duration="1973000" />
+      <workItem from="1569495340314" duration="121000" />
+      <workItem from="1569496200079" duration="412000" />
+      <workItem from="1569509084672" duration="625000" />
+      <workItem from="1569585743703" duration="62000" />
+      <workItem from="1569595833084" duration="443000" />
+      <workItem from="1569596341680" duration="6834000" />
+      <workItem from="1570185412685" duration="696000" />
+      <workItem from="1570218658178" duration="950000" />
+      <workItem from="1570479253868" duration="6795000" />
+      <workItem from="1570528512227" duration="18264000" />
+      <workItem from="1570613054410" duration="18062000" />
+      <workItem from="1570699933363" duration="1763000" />
+      <workItem from="1570742315715" duration="618000" />
+      <workItem from="1570785742438" duration="10725000" />
+      <workItem from="1571000638110" duration="3941000" />
+      <workItem from="1571047572840" duration="2971000" />
+      <workItem from="1571051482279" duration="9642000" />
+      <workItem from="1571132226060" duration="5992000" />
+      <workItem from="1571138944884" duration="8810000" />
+      <workItem from="1571177344429" duration="280000" />
+      <workItem from="1571214638736" duration="11143000" />
+      <workItem from="1571314008574" duration="704000" />
+      <workItem from="1571343691721" duration="6272000" />
+      <workItem from="1574978004891" duration="4418000" />
+      <workItem from="1575026122144" duration="6706000" />
+      <workItem from="1575058250275" duration="5869000" />
+      <workItem from="1575240482382" duration="350000" />
+      <workItem from="1583439626453" duration="85000" />
+      <workItem from="1583439732958" duration="7888000" />
+      <workItem from="1583488029948" duration="2284000" />
+      <workItem from="1583681113793" duration="6959000" />
+      <workItem from="1583746219822" duration="7041000" />
+      <workItem from="1583931997136" duration="682000" />
+      <workItem from="1583932716332" duration="5218000" />
+      <workItem from="1584351097323" duration="18847000" />
+      <workItem from="1584393208117" duration="1201000" />
+      <workItem from="1584613602439" duration="7744000" />
+      <workItem from="1584622073195" duration="1109000" />
+      <workItem from="1584701044531" duration="18106000" />
+      <workItem from="1584741923117" duration="242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/js-project" />
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/project-javacript" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1583491688035">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583491688035" />
+    <state x="319" y="74" key="SettingsEditor" timestamp="1584741786718">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="319" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1584741786718" />
+    <state x="0" y="0" width="513" height="819" key="dock-window-1" timestamp="1583935305217">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" width="513" height="819" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1583935305217" />
+    <state x="476" y="161" width="700" height="530" key="recent.locations.popup" timestamp="1584358371366">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="476" y="161" width="700" height="530" key="recent.locations.popup/0.0.1600.860@0.0.1600.860" timestamp="1584358371366" />
+    <state x="456" y="190" key="run.anything.popup" timestamp="1584614916341">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1584614916341" />
+  </component>
+</project>
